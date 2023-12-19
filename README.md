@@ -1,4 +1,4 @@
-﻿![Thumbnail GitHub]()
+﻿![Thumbnail GitHub](https://github.com/GustavoZSin/UsersAPI/blob/master/Imgs/usersApi.png)
 
 ## Users API
 
